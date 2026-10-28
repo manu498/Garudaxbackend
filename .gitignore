@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+garudax_data.db
+garudax_data.db-shm
+garudax_data.db-wal
+uploads/*
+!uploads/.gitkeep
+.env
+outbox/
